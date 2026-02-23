@@ -1,11 +1,9 @@
-# Riemannian Graph Neural Networks with Mixture of Experts (RGNN-MoE)
+# Capturing Motif Topological Diversity via Geometry-Adaptive Riemannian Molecular Representation Learning (MoMiR)
 
-Official code repository for training and evaluating the Riemannian Graph Neural Network with Mixture of Experts (RGNN-MoE). 
+Official code repository for training and evaluating the Geometry-Adaptive Riemannian Molecular Representation Learning framework (MoMiR). 
 
 ## Introduction
-
-In this work, we propose the RGNN-MoE model structure. By leveraging Riemannian manifolds and a Mixture of Experts (MoE) routing mechanism, our model efficiently accommodates the structural diversity of molecular graphs for robust Out-Of-Distribution (OOD) generalization.
-
+In this paper, we propose MoMiR, a mixed-curvature Riemannian molecular representation learning framework tailored to the topological heterogeneity of molecular motifs.
 ## Datasets
 
 We evaluate our model on two primary benchmarks:
