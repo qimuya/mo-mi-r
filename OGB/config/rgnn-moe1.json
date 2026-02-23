@@ -1,0 +1,13 @@
+{
+    "type": "rgnn-moe",
+    "paras": {
+      "init_curvs": [1.0, 1.0, 1.0],
+      "in_dim": 9,
+      "hidden_dim": 32,
+      "out_dim": 32,
+      "n_layers_r": 2,
+      "n_layers_d": 2,
+      "num_classes": 1,
+      "gate_hidden_dim": 32
+    }
+  }
